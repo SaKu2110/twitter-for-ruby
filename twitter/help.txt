@@ -1,0 +1,5 @@
+Usage:body.rb         you can post your tweet on your tarminal
+                -h    you can read help
+                -lt   show list timeline on your account
+                -ht   show home timeline on your account
+                -mt   show mention timeline on your account
