@@ -9,7 +9,9 @@ This program is on the terminal ...
 ・View of timeline
 
 ## Usage
-ruby body.rb []
-             [-t -h] you can see home timeline
-             [-t -m] you can see mention timeline
-             [-t -l] you can see list timeline
+<dl>
+<dt>ruby body.rb you can post tweet.</dt>
+             <dd>[-t -h] you can see home timeline.</dd>
+             <dd>[-t -m] you can see mention timeline.</dd>
+             <dd>[-t -l] you can see list timeline.</dd>
+</dl>
