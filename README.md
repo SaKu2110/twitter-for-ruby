@@ -10,7 +10,7 @@ This program is on the terminal ...
 
 ## Usage
 <dl>
-<dt>ruby body.rb you can post tweet.</dt>
+<dt>ruby body.rb [ ] you can post tweet.</dt>
              <dd>[-t -h] you can see home timeline.</dd>
              <dd>[-t -m] you can see mention timeline.</dd>
              <dd>[-t -l] you can see list timeline.</dd>
